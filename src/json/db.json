@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "titulo": "O Senhor dos Anéis",
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg",
+        "link": "https://www.youtube.com/watch?v=lqT8GOrzf_M"
     },
     {
         "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        "titulo": "Avatar",
+        "capa": "https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2022/11/22/image002-sok5ezrw75nq.jpg",
+        "link": "https://www.youtube.com/watch?v=ImtK7O32xS0"
     },
     {
         "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "titulo": "Pressagio",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/2/2a/Pressagio_Poster.jpg",
+        "link": "https://www.youtube.com/watch?v=bBWqnq4brog"
     },
     {
         "id": 4,
