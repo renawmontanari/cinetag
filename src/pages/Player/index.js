@@ -19,7 +19,7 @@ function Player() {
         <>
             <Banner imagem="player" />
             <Titulo>
-                <h1>Player</h1>
+                <h1>Player - {video.titulo}</h1>
             </Titulo>
             <section className={styles.container}>
                 <iframe 
